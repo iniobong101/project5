@@ -1,4 +1,4 @@
-#  LAMP stack built with Docker Compose
+#  LAMP stack built with Docker Compose by INI
 
   
 
